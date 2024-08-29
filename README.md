@@ -1,0 +1,1 @@
+This is a simple Python program that generates a random band name based on a list of adjectives and nouns. The program uses the `random` module to select a random adjective and noun from the lists, and then combines them to create a band name.
